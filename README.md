@@ -1,2 +1,2 @@
 # quarks-edge.github.io
-quarks-ege Website Project
+quarks-edge Website Project
