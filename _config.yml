@@ -1,0 +1,39 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://quarks-edge.github.io/
+baseurl: 
+title: Quarks
+description: Quarks is an open source community for accelerating analytics at the edge.
+copyright: Copyright &copy; 2016 International Business Machines Corporation. All Rights Reserved.</br>
+    IBM is a trademark of International Business Machines Corp., registered in many jurisdictions worldwide.</br>
+    All other marks mentioned may be trademarks or registered trademarks of their respective owners.
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: 
+  - title: github
+    url: 
+  - title: stack-overflow
+    url:
+
+detach:  false
+port:    4003
+host:    127.0.0.1
+
+#Base URLs
+docsurl: https://github.com/quarks-edge/quarks.documentation
+sourceurl: https://github.com/quarks-edge/quarks

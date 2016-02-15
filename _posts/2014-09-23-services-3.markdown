@@ -1,0 +1,15 @@
+---
+layout: default
+img: img/services/value.png
+category: Services
+title: What is the value of Quarks?
+linebreaks: </br></br></br></br>
+description: |
+---
+   Quarks enables continuous streaming analytics on gateways and edge devices which can work with centralized systems to provide efficient and timely analytics across the whole IoT ecosystem: from the center to the edge.    
+    
+   **Reduced Communication Costs**&nbsp;&nbsp;Quarks locally separates the interesting from the mundane, so you don’t have to send every sensor reading over a network. If 99% of readings are normal, Quarks detects the 1% anomalies and just transmits those for further processing. 
+   
+   **Local Action**&nbsp;&nbsp;Quarks makes devices more intelligent enabling them to take immediate action.  For example, a connected vehicle running Quarks can adjust traction control based on the weight of the cargo/passengers.   
+   
+   **Learning from Related Devices**&nbsp;&nbsp;Connected devices can become more intelligent by understanding related devices. For example, a truck maneuvering roads in Oregon can adjust based on the data received from trucks operating under similar loads and conditions in Colorado; data such as altitude, cargo, weather and traffic conditions. 

@@ -1,0 +1,9 @@
+---
+layout: default
+img: img/services/yellowRounded5BlackOutline.png
+category: Services
+title: What is Quarks?
+linebreaks: </br>
+description: |
+---
+Quarks is a programming model and runtime that can be embedded in gateways and devices.  An open source solution for implementing and deploying edge analytics on varied data streams and devices, Quarks can be used in conjunction with vendor and open source data and analytics solutions such as Apache Kafka, Spark and Storm.  Quarks is API driven and modular. 

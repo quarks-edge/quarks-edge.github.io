@@ -1,0 +1,19 @@
+---
+layout: default
+img: img/services/rasberry3.png
+category: Services
+title: What are the features of Quarks?
+linebreaks: </br></br></br></br></br>
+description: |
+---
+Quarks is a micro-kernel style runtime for execution enabling analytics on small-footprint edge devices or sensors, such as Raspberry Pis or smart phones. It supports windowing against a continuous stream of data for aggregation. Quarks also delivers the following features:
+
+**Java APIs** for developing applications that execute analytics using a per-event (data item) streaming paradigm
+
+**Connectors** for MQTT, HTTP, JDBC, File, Apache Kafka and IBM Watson IoT Platform
+
+**Multi-Platform support** including Java 8, Java 7 and Android. Producing a stream that contains a phone’s sensor events is an example of Android-specific functionality
+
+**Development mode** including a web-console for viewing the graph of running applications
+
+**Testing mechanism** for Quarks' applications which integrates with assertion based testing systems such as JUnit

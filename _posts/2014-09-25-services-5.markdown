@@ -1,0 +1,15 @@
+---
+layout: default
+img: https://developer.ibm.com/streamsdev/wp-content/uploads/sites/15/2016/02/whoShouldUse.jpg
+category: Services
+title: Who uses Quarks? 
+linebreaks: </br></br></br></br>
+description: |
+---
+  Quarks is for data science professionals (data developers, data engineers, data scientists) to build analytics at the edge to power IoT applications.
+
+**Data Engineers** add edge analytics to their overall data architecture, creating a streaming analytics hierarchy from the edge to the gateway to centralized analytic systems.
+
+**Data Developers** build streaming analytics on the edge, whether it's new analytics or pushing centralized analytics out to the edge.
+
+**Data Scientists** get relevant information directly from IoT devices and extend the data for analysis in a more timely and useful manner.

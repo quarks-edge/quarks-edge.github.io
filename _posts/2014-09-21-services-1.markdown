@@ -1,0 +1,12 @@
+---
+layout: default
+img: img/services/logo.png
+category: Services
+title: Why Quarks?
+linebreaks: </br></br></br></br>
+description: |
+---
+In an era where everything is rapidly becoming connected, the Internet of Things (IoT) presents a vast opportunity for discovering new insights. However, to extract meaning from IoT data it must be transmitted over a communications network then analyzed by a centralized application -- a process that is both costly and time consuming. Quarks addresses existing limitations by analyzing data locally, on gateways or at edge devices. The results are quicker time to action and reduced communication costs.   
+   
+Working in conjunction with centralized analytic systems, Quarks enables a common streaming analytic model across different kinds of devices using familiar tools. It runs locally analyzing the continuous streams of data coming from equipment, vehicles, systems, appliances, and sensors of all kinds. 
+
