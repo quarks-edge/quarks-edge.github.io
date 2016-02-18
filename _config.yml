@@ -28,7 +28,7 @@ social:
   - title: github
     url: https://github.com/quarks-edge/quarks/
   - title: stack-overflow
-    url:
+    url: http://stackoverflow.com/questions/ask?tags=quarks
 
 detach:  false
 port:    4003
