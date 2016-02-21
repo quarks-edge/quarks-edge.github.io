@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://quarks-edge.github.io/
-baseurl: 
+baseurl:
 title: Quarks
 description: Quarks is an open source community for accelerating analytics at the edge.
 copyright: Copyright &copy; 2016 International Business Machines Corporation. All Rights Reserved.</br>
@@ -24,16 +24,17 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: 
+    url: https://twitter.com/QuarksEdge
   - title: github
-    url: 
+    url: https://github.com/quarks-edge/quarks/
   - title: stack-overflow
-    url:
+    url: http://stackoverflow.com/questions/ask?tags=quarks
 
 detach:  false
 port:    4003
 host:    127.0.0.1
 
 #Base URLs
-docsurl: https://github.com/quarks-edge/quarks.documentation
+docsurl: http://quarks-edge.github.io/quarks.documentation/
 sourceurl: https://github.com/quarks-edge/quarks
+projurl: http://quarks-edge.github.io/quarks
